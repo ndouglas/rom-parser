@@ -1,7 +1,7 @@
 # rom-parser/rom-fixer
 
 ```bash
-$ git clone https://github.com/awilliam/rom-parser
+$ git clone https://github.com/ndouglas/rom-parser
 $ cd rom-parser
 $ make
 ```
